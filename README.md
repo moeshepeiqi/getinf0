@@ -1,0 +1,2 @@
+# getinf0
+getinf
